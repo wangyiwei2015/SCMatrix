@@ -1,0 +1,15 @@
+
+import Foundation
+import Intents
+
+class <#handler name#>: NSObject, <#handling#> {
+    
+    func handle(intent: <#Intent#>, completion: @escaping (<#Response#>) -> Void) {
+        //
+    }
+    
+    func resolveText(for intent: <#Intent#>, with completion: @escaping (<#ResolutionResult#>) -> Void) {
+        //
+    }
+}
+
